@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BuscaPaises</string>
+    <string name="busca_fila">fila solucionadora</string>
+    <string name="botao_busca">Buscar</string>
+
+    <string-array name="spinTest">
+        <item>Todos</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+</resources>
